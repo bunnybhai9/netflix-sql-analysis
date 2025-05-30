@@ -38,8 +38,6 @@ This project uses SQL to explore a dataset of Netflix content. It answers real-w
 12. Titles with missing directors
 13. Movies with actor “Salman Khan” (last 10 years)
 14. Top 10 Indian actors by film appearances
-15. Categorize content as “Good” or “Bad” based on description
-
 ---
 
 ## 🛠️ Tools Used
@@ -63,6 +61,5 @@ This project uses SQL to explore a dataset of Netflix content. It answers real-w
 
 ## 🙋‍♂️ Author
 
-**Rupesh Bhai**  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME/)  
-📫 youremail@example.com
+**Rupesh Bhai**   
+📫 rupeshkarkera1@gmail.com
